@@ -1,0 +1,12 @@
+/Users/marc/Documents/FinalProjectWeb/Faro.Repository/bin/Debug/netstandard2.0/Faro.Repository.deps.json
+/Users/marc/Documents/FinalProjectWeb/Faro.Repository/bin/Debug/netstandard2.0/Faro.Repository.dll
+/Users/marc/Documents/FinalProjectWeb/Faro.Repository/bin/Debug/netstandard2.0/Faro.Repository.pdb
+/Users/marc/Documents/FinalProjectWeb/Faro.Repository/bin/Debug/netstandard2.0/Faro.Domain.dll
+/Users/marc/Documents/FinalProjectWeb/Faro.Repository/bin/Debug/netstandard2.0/Faro.Domain.pdb
+/Users/marc/Documents/FinalProjectWeb/Faro.Repository/obj/Debug/netstandard2.0/Faro.Repository.csprojAssemblyReference.cache
+/Users/marc/Documents/FinalProjectWeb/Faro.Repository/obj/Debug/netstandard2.0/Faro.Repository.csproj.CoreCompileInputs.cache
+/Users/marc/Documents/FinalProjectWeb/Faro.Repository/obj/Debug/netstandard2.0/Faro.Repository.AssemblyInfoInputs.cache
+/Users/marc/Documents/FinalProjectWeb/Faro.Repository/obj/Debug/netstandard2.0/Faro.Repository.AssemblyInfo.cs
+/Users/marc/Documents/FinalProjectWeb/Faro.Repository/obj/Debug/netstandard2.0/Faro.Repository.csproj.CopyComplete
+/Users/marc/Documents/FinalProjectWeb/Faro.Repository/obj/Debug/netstandard2.0/Faro.Repository.dll
+/Users/marc/Documents/FinalProjectWeb/Faro.Repository/obj/Debug/netstandard2.0/Faro.Repository.pdb

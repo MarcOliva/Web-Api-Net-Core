@@ -1,0 +1,18 @@
+{
+  "FilePath": "/Users/marc/Documents/Web-Api-Net-Core/Faro.Api/Faro.Api.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "Faro.Api",
+  "Documents": []
+}
