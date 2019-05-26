@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marc/Documents/FinalProjectWeb/Faro.Domain/Faro.Domain.csproj",
+      "projectUniqueName": "/Users/marc/Documents/Web-Api-Net-Core/Faro.Domain/Faro.Domain.csproj",
       "projectName": "Faro.Domain",
-      "projectPath": "/Users/marc/Documents/FinalProjectWeb/Faro.Domain/Faro.Domain.csproj",
+      "projectPath": "/Users/marc/Documents/Web-Api-Net-Core/Faro.Domain/Faro.Domain.csproj",
       "packagesPath": "/Users/marc/.nuget/packages/",
-      "outputPath": "/Users/marc/Documents/FinalProjectWeb/Faro.Domain/obj/",
+      "outputPath": "/Users/marc/Documents/Web-Api-Net-Core/Faro.Domain/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
