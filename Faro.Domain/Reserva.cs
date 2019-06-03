@@ -17,7 +17,6 @@ namespace Faro.Domain
         public TipoComprobante TipoComprobanteId { get; set; }
         public MetodoPago MetodoPagoId { get; set; }
         public Empleado EmpleadoId { get; set; }
-        public bool Anulado { get; set; }
 
     }
 }
