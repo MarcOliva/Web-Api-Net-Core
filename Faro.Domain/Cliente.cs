@@ -9,11 +9,10 @@ namespace Faro.Domain
         public string ApellidoPaterno { get; set; }
         public string ApellidoMaterno { get; set; }
         public int Telefono { get; set; }
-        public DateTime FechaNacimiento { get; set; }
+        public string FechaNacimiento { get; set; }
+        public string FechaRegistro { get; set; }
         public string Pais { get; set; }
         public int NumeroDocumento { get; set; }
-        public TipoDocumento TipoDocumentoId { get; set; }
-        public bool Vip { get; set; }
-
+        public string TipoDocumento { get; set; }
     }
 }

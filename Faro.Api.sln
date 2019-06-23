@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faro.Api", "Faro.Api\Faro.Api.csproj", "{3BCC0878-AF2F-4EA7-AC6E-F759CD334054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faro.Domain", "Faro.Domain\Faro.Domain.csproj", "{8560D701-8DEB-4542-9985-B0BC43169CD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faro.Repository", "Faro.Repository\Faro.Repository.csproj", "{727F6E61-43D8-42E0-ABA3-EFF42FA609CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faro.Service", "Faro.Service\Faro.Service.csproj", "{BC709155-A512-41FA-8FBE-CD8F931C9101}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BCC0878-AF2F-4EA7-AC6E-F759CD334054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BCC0878-AF2F-4EA7-AC6E-F759CD334054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BCC0878-AF2F-4EA7-AC6E-F759CD334054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BCC0878-AF2F-4EA7-AC6E-F759CD334054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8560D701-8DEB-4542-9985-B0BC43169CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8560D701-8DEB-4542-9985-B0BC43169CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8560D701-8DEB-4542-9985-B0BC43169CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8560D701-8DEB-4542-9985-B0BC43169CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{727F6E61-43D8-42E0-ABA3-EFF42FA609CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727F6E61-43D8-42E0-ABA3-EFF42FA609CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727F6E61-43D8-42E0-ABA3-EFF42FA609CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727F6E61-43D8-42E0-ABA3-EFF42FA609CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC709155-A512-41FA-8FBE-CD8F931C9101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC709155-A512-41FA-8FBE-CD8F931C9101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC709155-A512-41FA-8FBE-CD8F931C9101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC709155-A512-41FA-8FBE-CD8F931C9101}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03F1481C-1889-449A-943F-B4286D61FC9B}
+	EndGlobalSection
+EndGlobal
